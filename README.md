@@ -23,6 +23,7 @@
 - 🤹‍♂️ I'm conference speaker focused on **F# and OSS-related topics**
 - 🖥 In free time I'm playing **PC games, Magic and tabletop RPG**
 - 📝 From time to time I'm blogging at **http://kcieslak.io/ and https://medium.com/@k_cieslak**
+- 🎉 I have on-going AMA (ask-me-anything) on **https://github.com/Krzysztof-Cieslak/AMA**
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krzysztof-Cieslak&layout=compact&hide=html,css)
