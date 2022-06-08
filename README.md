@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Cieslak</h1>
-<h3 align="center">OSS Troublemaker | F# Hacker | CEO & Founder | Conference speaker</h3>
+<h3 align="center">OSS Troublemaker | F# Hacker | Conference speaker</h3>
 
 <p align="center">
 <a href="https://twitter.com/Krzysztof-Cieslak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="50" width="50" /></a>
@@ -18,7 +18,7 @@
 - 🔭 I’m ~currently~ always working on **OSS developer tooling** 
 - 💬 Ask me about **developer experience & tools, F# & functional programming, OSS sustainability, photography**
 - 📫 How to reach me: **krzysztof_cieslak@windowslive.com**
-- ✨ I'm founder of **https://lambdafactory.io/**
+- ✨ I'm working as Senior Research Engineer at **[@GitHubNext](https://github.com/githubnext)**
 - 🌍 I love **traveling, photography and hiking**
 - 🤹‍♂️ I'm conference speaker focused on **F# and OSS-related topics**
 - 🖥 In free time I'm playing **PC games, Magic and tabletop RPG**
