@@ -27,3 +27,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krzysztof-Cieslak&layout=compact&hide=html,css)
+
+<a rel="me" href="https://mastodon.social/@k_cieslak"></a>
