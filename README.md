@@ -25,7 +25,4 @@
 - 📝 From time to time I'm blogging at **http://kcieslak.io/ and https://medium.com/@k_cieslak**
 - 🎉 I have on-going AMA (ask-me-anything) on **https://github.com/Krzysztof-Cieslak/AMA**
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krzysztof-Cieslak&layout=compact&hide=html,css)
-
 <a rel="me" href="https://mastodon.social/@k_cieslak"></a>
