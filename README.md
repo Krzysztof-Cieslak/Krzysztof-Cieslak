@@ -18,7 +18,7 @@
 - 🔭 I’m ~currently~ always working on **OSS developer tooling** 
 - 💬 Ask me about **developer experience & tools, F# & functional programming, OSS sustainability, photography**
 - 📫 How to reach me: **krzysztof_cieslak@windowslive.com**
-- ✨ I'm working as Senior Research Engineer at **[@GitHubNext](https://github.com/githubnext)**
+- ✨ I'm working as Developer Tools Researcher at **[@GitHubNext](https://github.com/githubnext)**
 - 🌍 I love **traveling, photography and hiking**
 - 🤹‍♂️ I'm conference speaker focused on **F# and OSS-related topics**
 - 🖥 In free time I'm playing **PC games, Magic and tabletop RPG**
